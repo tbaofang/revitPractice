@@ -1,0 +1,16 @@
+E:\project\vs2015\revit\chapter9\ETest\ETest\bin\Debug\ETest.exe.config
+E:\project\vs2015\revit\chapter9\ETest\ETest\obj\Debug\ETest.csprojResolveAssemblyReference.cache
+E:\project\vs2015\revit\chapter9\ETest\ETest\obj\Debug\MainWindow.g.cs
+E:\project\vs2015\revit\chapter9\ETest\ETest\obj\Debug\App.g.cs
+E:\project\vs2015\revit\chapter9\ETest\ETest\obj\Debug\ETest_MarkupCompile.cache
+E:\project\vs2015\revit\chapter9\ETest\ETest\obj\Debug\ETest_MarkupCompile.lref
+E:\project\vs2015\revit\chapter9\ETest\ETest\bin\Debug\ETest.exe
+E:\project\vs2015\revit\chapter9\ETest\ETest\bin\Debug\ETest.pdb
+E:\project\vs2015\revit\chapter9\ETest\ETest\bin\Debug\RevitAPI.dll
+E:\project\vs2015\revit\chapter9\ETest\ETest\bin\Debug\RevitAPIUI.dll
+E:\project\vs2015\revit\chapter9\ETest\ETest\obj\Debug\MainWindow.baml
+E:\project\vs2015\revit\chapter9\ETest\ETest\obj\Debug\ETest.g.resources
+E:\project\vs2015\revit\chapter9\ETest\ETest\obj\Debug\ETest.Properties.Resources.resources
+E:\project\vs2015\revit\chapter9\ETest\ETest\obj\Debug\ETest.csproj.GenerateResource.Cache
+E:\project\vs2015\revit\chapter9\ETest\ETest\obj\Debug\ETest.exe
+E:\project\vs2015\revit\chapter9\ETest\ETest\obj\Debug\ETest.pdb

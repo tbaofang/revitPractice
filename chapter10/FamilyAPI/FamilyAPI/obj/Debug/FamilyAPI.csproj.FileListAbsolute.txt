@@ -1,0 +1,7 @@
+E:\project\vs2015\revit\chapter10\FamilyAPI\FamilyAPI\bin\Debug\FamilyAPI.dll
+E:\project\vs2015\revit\chapter10\FamilyAPI\FamilyAPI\bin\Debug\FamilyAPI.pdb
+E:\project\vs2015\revit\chapter10\FamilyAPI\FamilyAPI\bin\Debug\RevitAPI.dll
+E:\project\vs2015\revit\chapter10\FamilyAPI\FamilyAPI\bin\Debug\RevitAPIUI.dll
+E:\project\vs2015\revit\chapter10\FamilyAPI\FamilyAPI\obj\Debug\FamilyAPI.csprojResolveAssemblyReference.cache
+E:\project\vs2015\revit\chapter10\FamilyAPI\FamilyAPI\obj\Debug\FamilyAPI.dll
+E:\project\vs2015\revit\chapter10\FamilyAPI\FamilyAPI\obj\Debug\FamilyAPI.pdb

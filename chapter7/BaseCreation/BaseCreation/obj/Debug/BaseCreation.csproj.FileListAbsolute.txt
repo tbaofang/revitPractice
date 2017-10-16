@@ -1,0 +1,7 @@
+E:\project\vs2015\revit\chapter7\BaseCreation\BaseCreation\bin\Debug\BaseCreation.dll
+E:\project\vs2015\revit\chapter7\BaseCreation\BaseCreation\bin\Debug\BaseCreation.pdb
+E:\project\vs2015\revit\chapter7\BaseCreation\BaseCreation\bin\Debug\RevitAPI.dll
+E:\project\vs2015\revit\chapter7\BaseCreation\BaseCreation\bin\Debug\RevitAPIUI.dll
+E:\project\vs2015\revit\chapter7\BaseCreation\BaseCreation\obj\Debug\BaseCreation.csprojResolveAssemblyReference.cache
+E:\project\vs2015\revit\chapter7\BaseCreation\BaseCreation\obj\Debug\BaseCreation.dll
+E:\project\vs2015\revit\chapter7\BaseCreation\BaseCreation\obj\Debug\BaseCreation.pdb

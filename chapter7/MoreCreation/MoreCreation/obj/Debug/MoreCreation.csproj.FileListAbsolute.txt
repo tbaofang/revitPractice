@@ -1,0 +1,7 @@
+E:\project\vs2015\revit\chapter7\MoreCreation\MoreCreation\obj\Debug\MoreCreation.csprojResolveAssemblyReference.cache
+E:\project\vs2015\revit\chapter7\MoreCreation\MoreCreation\bin\Debug\MoreCreation.dll
+E:\project\vs2015\revit\chapter7\MoreCreation\MoreCreation\bin\Debug\MoreCreation.pdb
+E:\project\vs2015\revit\chapter7\MoreCreation\MoreCreation\bin\Debug\RevitAPI.dll
+E:\project\vs2015\revit\chapter7\MoreCreation\MoreCreation\bin\Debug\RevitAPIUI.dll
+E:\project\vs2015\revit\chapter7\MoreCreation\MoreCreation\obj\Debug\MoreCreation.dll
+E:\project\vs2015\revit\chapter7\MoreCreation\MoreCreation\obj\Debug\MoreCreation.pdb

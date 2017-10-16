@@ -1,0 +1,2 @@
+E:\project\vs2015\revit\chapter6\Trans\Trans\bin\Debug\Trans.exe.config
+E:\project\vs2015\revit\chapter6\Trans\Trans\obj\Debug\Trans.csprojResolveAssemblyReference.cache

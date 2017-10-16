@@ -1,0 +1,7 @@
+E:\project\vs2015\revit\chapter9\EventTest\EventTest\bin\Debug\EventTest.dll
+E:\project\vs2015\revit\chapter9\EventTest\EventTest\bin\Debug\EventTest.pdb
+E:\project\vs2015\revit\chapter9\EventTest\EventTest\obj\Debug\EventTest.csprojResolveAssemblyReference.cache
+E:\project\vs2015\revit\chapter9\EventTest\EventTest\obj\Debug\EventTest.dll
+E:\project\vs2015\revit\chapter9\EventTest\EventTest\obj\Debug\EventTest.pdb
+E:\project\vs2015\revit\chapter9\EventTest\EventTest\bin\Debug\RevitAPI.dll
+E:\project\vs2015\revit\chapter9\EventTest\EventTest\bin\Debug\RevitAPIUI.dll

@@ -1,0 +1,6 @@
+E:\project\vs2015\revit\chapter6\Trans1\Trans1\bin\Debug\Trans1.dll
+E:\project\vs2015\revit\chapter6\Trans1\Trans1\bin\Debug\Trans1.pdb
+E:\project\vs2015\revit\chapter6\Trans1\Trans1\bin\Debug\RevitAPI.dll
+E:\project\vs2015\revit\chapter6\Trans1\Trans1\bin\Debug\RevitAPIUI.dll
+E:\project\vs2015\revit\chapter6\Trans1\Trans1\obj\Debug\Trans1.dll
+E:\project\vs2015\revit\chapter6\Trans1\Trans1\obj\Debug\Trans1.pdb

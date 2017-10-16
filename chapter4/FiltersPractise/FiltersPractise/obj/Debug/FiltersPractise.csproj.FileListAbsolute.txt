@@ -1,0 +1,7 @@
+E:\project\vs2015\revit\chapter4\FiltersPractise\FiltersPractise\bin\Debug\FiltersPractise.dll
+E:\project\vs2015\revit\chapter4\FiltersPractise\FiltersPractise\bin\Debug\FiltersPractise.pdb
+E:\project\vs2015\revit\chapter4\FiltersPractise\FiltersPractise\bin\Debug\RevitAPI.dll
+E:\project\vs2015\revit\chapter4\FiltersPractise\FiltersPractise\bin\Debug\RevitAPIUI.dll
+E:\project\vs2015\revit\chapter4\FiltersPractise\FiltersPractise\obj\Debug\FiltersPractise.csprojResolveAssemblyReference.cache
+E:\project\vs2015\revit\chapter4\FiltersPractise\FiltersPractise\obj\Debug\FiltersPractise.dll
+E:\project\vs2015\revit\chapter4\FiltersPractise\FiltersPractise\obj\Debug\FiltersPractise.pdb

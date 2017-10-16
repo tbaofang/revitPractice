@@ -1,0 +1,7 @@
+E:\project\vs2015\revit\chapter4\collision\collision\bin\Debug\collision.dll
+E:\project\vs2015\revit\chapter4\collision\collision\bin\Debug\collision.pdb
+E:\project\vs2015\revit\chapter4\collision\collision\bin\Debug\RevitAPI.dll
+E:\project\vs2015\revit\chapter4\collision\collision\bin\Debug\RevitAPIUI.dll
+E:\project\vs2015\revit\chapter4\collision\collision\obj\Debug\collision.csprojResolveAssemblyReference.cache
+E:\project\vs2015\revit\chapter4\collision\collision\obj\Debug\collision.dll
+E:\project\vs2015\revit\chapter4\collision\collision\obj\Debug\collision.pdb

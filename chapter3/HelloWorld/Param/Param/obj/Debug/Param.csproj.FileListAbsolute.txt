@@ -1,0 +1,7 @@
+E:\project\vs2015\revit\chapter3\HelloWorld\Param\Param\bin\Debug\Param.dll
+E:\project\vs2015\revit\chapter3\HelloWorld\Param\Param\bin\Debug\Param.pdb
+E:\project\vs2015\revit\chapter3\HelloWorld\Param\Param\bin\Debug\RevitAPI.dll
+E:\project\vs2015\revit\chapter3\HelloWorld\Param\Param\bin\Debug\RevitAPIUI.dll
+E:\project\vs2015\revit\chapter3\HelloWorld\Param\Param\obj\Debug\Param.csprojResolveAssemblyReference.cache
+E:\project\vs2015\revit\chapter3\HelloWorld\Param\Param\obj\Debug\Param.dll
+E:\project\vs2015\revit\chapter3\HelloWorld\Param\Param\obj\Debug\Param.pdb
